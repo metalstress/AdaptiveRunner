@@ -1,0 +1,10 @@
+{
+  "omi": 1,
+  "id": "metalstress.adaptiverunner",
+  "name": "AdaptiveRunner",
+  "version": "0.1.1-preview",
+  "authors": ["metalstress"],
+  "description": "Brings adaptive triggers for yours flydigi apex 5 controller. This mod needs Next Gen Gameplay by TheRealTen in order to work",
+  "banner": "AdaptiveRunner.banner.png",
+  "type": "asi"
+}

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>SnowRunnerApex5</AssemblyName>
+    <Version>0.1.1-preview</Version>
+    <AssemblyTitle>AdaptiveRunner</AssemblyTitle>
+    <Product>AdaptiveRunner</Product>
+    <Description>Brings adaptive triggers for yours flydigi apex 5 controller. This mod needs Next Gen Gameplay by TheRealTen in order to work</Description>
+    <ApplicationIcon>Assets\AdaptiveRunner.ico</ApplicationIcon>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>false</SelfContained>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\AdaptiveRunner.ico" LogicalName="AdaptiveRunner.Icon" />
+  </ItemGroup>
+</Project>

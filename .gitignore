@@ -1,0 +1,30 @@
+# Local builds and installation packages
+**/bin/
+**/obj/
+updates/
+dist/
+backup/
+*.exe
+*.dll
+*.asi
+*.pdb
+*.obj
+*.lib
+*.exp
+*.zip
+
+# Local runtime state and documentation
+*.log
+*.jsonl
+*.log.previous
+settings.json
+status.json
+diagnostics.json
+verification.json
+/Прочитай меня.md
+.vs/
+.vscode/
+.env
+.env.*
+*.user
+*.suo
